@@ -10,3 +10,6 @@ Alumno
 
     Nombre: Elian Josue Cuba Yupanqui
     Mesa: Dracarys
+
+    Nombre: Carlos Antonio Vilca Cutipa
+    Mesa
