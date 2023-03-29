@@ -1,0 +1,12 @@
+Alumno
+    Nombre: Cristhian Andre Pantoja Gonzales
+    mesa
+
+    Nombre: Jose Sebastian Pinillos Zenteno
+    Legacy
+
+    Nombre: Jhon Ramos Calizaya
+    Mejora Continua
+
+    Nombre: Elian Josue Cuba Yupanqui
+    Mesa: Dracarys
