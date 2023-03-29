@@ -4,3 +4,6 @@ Alumno
 
     Nombre: Jose Sebastian Pinillos Zenteno
     Legacy
+
+    Nombre: Jhon Ramos Calizaya
+    Mejora Continua
