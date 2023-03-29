@@ -7,3 +7,6 @@ Alumno
 
     Nombre: Jhon Ramos Calizaya
     Mejora Continua
+
+    Nombre: Elian Josue Cuba Yupanqui
+    Mesa: Dracarys
